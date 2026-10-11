@@ -1,0 +1,13 @@
+{
+  "name": "amazon-search",
+  "version": "1.0.0",
+  "description": "Amazon.de Search & Product Inspector Skill for AI Agents",
+  "type": "module",
+  "scripts": {
+    "start": "node scripts/search.js"
+  },
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.0.0",
+    "playwright": "^1.40.0"
+  }
+}

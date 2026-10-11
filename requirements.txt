@@ -1,0 +1,3 @@
+# Python-Abhängigkeiten für die deutschen Händler-Skills (TLS-Fingerprint & Parsing)
+curl_cffi>=0.7.0
+beautifulsoup4>=4.12.0
